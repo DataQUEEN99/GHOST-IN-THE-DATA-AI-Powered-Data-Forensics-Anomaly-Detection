@@ -1,0 +1,2 @@
+# GHOST-IN-THE-DATA-AI-Powered-Data-Forensics-Anomaly-Detection
+An AI-powered data forensics platform that detects hidden anomalies, missing values, duplicate records, and unusual patterns in datasets. Using machine learning and interactive visualizations, it helps users identify data quality issues faster, reduce manual inspection, and generate actionable reports for more reliable, data-driven decisions.
